@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.webservicex.www.GetQuote"/>
+<fullyQualifiedTypeName name="net.webservicex.www.GetQuoteResponse"/>
+<fullyQualifiedTypeName name="net.webservicex.www.StockQuoteMessageReceiverInOut"/>
+<fullyQualifiedTypeName name="java.lang.UnsupportedOperationException"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.apache.ws.axis2.StockQuoteStub"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.apache.xmlbeans.impl.xb.xsdschema.Public"/>
+<fullyQualifiedTypeName name="net.webservicex.www.StockQuoteStub"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.apache.axis2.AxisFault"/>
+</qualifiedTypeNameHistroy>
